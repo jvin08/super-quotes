@@ -192,6 +192,8 @@
        "quote":"Life is what we make it, always has been, always will be.","author":"Grandma Moses"},
 {
        "quote":"The question isn’t who is going to let me; it’s who is going to stop me.","author":"Ayn Rand"},
+{      
+       "quote":"You can, you should, and if you're brave enough to start, you will.", "author":"Stephen King"},
 {
        "quote":"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.","author":"Henry Ford"},
 {
@@ -205,7 +207,5 @@
 {
        "quote":"The only way to do great work is to love what you do.","author":"Steve Jobs"},
 {
-       "quote":"If you can dream it, you can achieve it.","author":"Zig Ziglar"},
-{
-       "quote":"You can, you should, and if you're brave enough to start, you will.", "author":"Stephen King"}
+       "quote":"If you can dream it, you can achieve it.","author":"Zig Ziglar"}
 ]
